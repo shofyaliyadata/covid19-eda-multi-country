@@ -24,8 +24,8 @@ covid19-eda-multi-country/
 │   ├── event_annotation.png
 │   └── correlation_heatmap.png
 │
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
