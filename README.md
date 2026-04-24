@@ -209,6 +209,6 @@ Vaccination rollout correlates with reduced transmission, reinforcing its role a
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational and portfolio purposes. Dataset is sourced from [Our World in Data](https://ourworldindata.org/coronavirus) and is publicly available under their terms.
