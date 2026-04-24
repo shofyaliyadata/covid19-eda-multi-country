@@ -191,7 +191,7 @@ Vaccination rollout correlates with reduced transmission, reinforcing its role a
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/covid19-eda-multi-country.git
+   git clone https://github.com/shofyaliyadata/covid19-eda-multi-country.git
    cd covid19-eda-multi-country
    ```
 
