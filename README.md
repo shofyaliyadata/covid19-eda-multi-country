@@ -57,11 +57,14 @@ This project explores global COVID-19 data to uncover patterns in case trends, f
 | Detail | Info |
 |---|---|
 | **Source** | [Our World in Data – COVID-19](https://ourworldindata.org/coronavirus) |
-| **File** | `Covid19Data.csv` |
-| **Total rows** | ~570,606 entries |
+| **File** | `Covid19Data_Small.csv` |
+| **Description** | A filtered subset of the original dataset focusing on selected countries |
+| **Total rows** | 8,980 entries |
 | **Total columns** | 61 columns |
 | **Key columns used** | `country`, `date`, `new_cases`, `new_deaths`, `total_cases`, `total_deaths`, `people_vaccinated`, `population` |
 
+> Note: The original dataset contains over 500,000 rows and 61 columns.  
+> For efficiency and reproducibility, a smaller subset is used in this project focusing on selected countries.
 ---
 
 ## Tools & Libraries
