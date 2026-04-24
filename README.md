@@ -111,7 +111,6 @@ Heatmap showing correlations between numerical variables including cases, deaths
 ## 📈 Visualizations
 
 ### Daily Cases Trend
-> Insert `images/daily_cases_trend.png` here
 
 ![Daily Cases Trend](images/daily_cases_trend.png)
 
@@ -120,7 +119,6 @@ China (green) recorded the most dramatic single spike in early 2023 following th
 ---
 
 ### Smoothed Trend (7-Day Average)
-> Insert `images/smoothed_trend_7day.png` here — place this directly after the Daily Cases Trend section
 
 ![Smoothed Trend](images/smoothed_trend_7day.png)
 
@@ -129,7 +127,6 @@ The 7-day rolling average removes daily noise and confirms the wave patterns mor
 ---
 
 ### Death Rate Over Time
-> Insert `images/death_rate_over_time.png` here — place this after the Smoothed Trend section
 
 ![Death Rate](images/death_rate_over_time.png)
 
@@ -138,7 +135,6 @@ Indonesia (blue) had the highest death rate in the early pandemic period, likely
 ---
 
 ### Vaccination Rate Over Time
-> Insert `images/vaccination_rate_over_time.png` here — place this after the Death Rate section
 
 ![Vaccination Rate](images/vaccination_rate_over_time.png)
 
@@ -147,7 +143,6 @@ China (green) achieved the highest vaccination rate by end of observation period
 ---
 
 ### Vaccination Comparison by Country
-> Insert `images/vaccination_comparison_by_country.png` here — place this after the Vaccination Rate Over Time section
 
 ![Vaccination Comparison](images/vaccination_comparison_by_country.png)
 
@@ -156,7 +151,6 @@ Bar chart snapshot of final vaccination rates. China leads, followed by India an
 ---
 
 ### Event Annotation
-> Insert `images/event_annotation.png` here — place this after the Vaccination Comparison section
 
 ![Event Annotation](images/event_annotation.png)
 
@@ -165,7 +159,6 @@ Case trend chart annotated with a January 2021 marker. China's 2023 spike (green
 ---
 
 ### Correlation Heatmap
-> Insert `images/correlation_heatmap.png` here — place this as the final visualization before Key Takeaways
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
@@ -207,7 +200,7 @@ Vaccination rollout correlates with reduced transmission, reinforcing its role a
    pip install -r requirements.txt
    ```
 
-3. Place `Covid19Data.csv` inside the `data/` folder
+3. Place `Covid19Data_Small.csv` inside the `data/` folder
 
 4. Open the notebook
    ```bash
