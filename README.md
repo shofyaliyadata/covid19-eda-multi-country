@@ -10,7 +10,7 @@ Exploratory Data Analysis of COVID-19 trends across **Indonesia, United States, 
 covid19-eda-multi-country/
 │
 ├── data/
-│   └── Covid19Data.csv
+│   └── Covid19Data_Small.csv
 │
 ├── notebook/
 │   └── covid19-eda-multi-country-analysis.ipynb
