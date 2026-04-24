@@ -1,10 +1,10 @@
-# 🦠 COVID-19 Multi-Country EDA
+# COVID-19 Multi-Country EDA
 
 Exploratory Data Analysis of COVID-19 trends across **Indonesia, United States, China, and India** — covering case trends, death rates, vaccination progress, and cross-country comparisons using data from [Our World in Data](https://ourworldindata.org/coronavirus).
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 covid19-eda-multi-country/
@@ -30,7 +30,7 @@ covid19-eda-multi-country/
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores global COVID-19 data to uncover patterns in case trends, fatality rates, and vaccination rollouts across four countries that represent vastly different pandemic experiences and policy responses.
 
@@ -42,7 +42,7 @@ This project explores global COVID-19 data to uncover patterns in case trends, f
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze COVID-19 case trends over time across multiple countries
 - Compare pandemic intensity and wave patterns between countries
@@ -52,7 +52,7 @@ This project explores global COVID-19 data to uncover patterns in case trends, f
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Detail | Info |
 |---|---|
@@ -64,7 +64,7 @@ This project explores global COVID-19 data to uncover patterns in case trends, f
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 
 | Library | Purpose |
 |---|---|
@@ -74,7 +74,7 @@ This project explores global COVID-19 data to uncover patterns in case trends, f
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### 1. Data Understanding
 Initial exploration of the dataset structure, data types, missing values, and basic statistics using `df.head()`, `df.info()`, and `df.describe()`.
@@ -108,7 +108,7 @@ Heatmap showing correlations between numerical variables including cases, deaths
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Daily Cases Trend
 
@@ -166,7 +166,7 @@ Case trend chart annotated with a January 2021 marker. China's 2023 spike (green
 
 ---
 
-## 🔑 Key Takeaways
+## Key Takeaways
 
 - **United States** recorded the highest average daily new cases (~83,890/day), driven by multiple large waves throughout the pandemic timeline.
 - **China** experienced the single largest spike in the dataset in early 2023, triggered by the abrupt end of its zero-COVID policy.
@@ -177,7 +177,7 @@ Case trend chart annotated with a January 2021 marker. China's 2023 spike (green
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 This EDA reveals that COVID-19's impact varied dramatically across Indonesia, the United States, China, and India — shaped by differences in policy responses, healthcare infrastructure, population size, and testing capacity.
 
@@ -187,7 +187,7 @@ Vaccination rollout correlates with reduced transmission, reinforcing its role a
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
    ```bash
